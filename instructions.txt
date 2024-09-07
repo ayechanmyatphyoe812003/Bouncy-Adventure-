@@ -1,0 +1,5 @@
+Instrutions to run the "Bouncy Adventure"
+-----------------------------------------
+
+-right click on code folder and open in terminal
+> python welcome.py
